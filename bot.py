@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.utils.exceptions import BotBlocked
 
 # Объект бота
-TOKEN = "5834847229:AAFRSq9Dq7Siu2AjuCROT3ifJiTlifvwbWY"
+TOKEN = ""
 bot = Bot(token=TOKEN)
 # Диспетчер для бота
 dp = Dispatcher(bot)
